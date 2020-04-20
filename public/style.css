@@ -1,0 +1,15 @@
+i.icon{
+    font-size: 1.3em;
+}
+
+
+#form{
+    margin-top: 12rem;
+}
+
+#show {
+    margin-top: 7rem;
+}
+#delete {
+    display: inline;
+}
